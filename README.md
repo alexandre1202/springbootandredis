@@ -1,4 +1,4 @@
-# springbootandredis
+# Spring Boot and Redis 
 Repository with a very simple example of a Spring Boot (2.0.5) application using Java 8, Gradle, Redis and a GET Restfull web service example.
 
 ## Environment
